@@ -32,4 +32,9 @@ Open this link
 
 https://deluxe-toffee-be7736.netlify.app/
 
+
+## Screenshot
+
+![Github Profile Finder Screenshot](Images/img1.png)
+
 ```
