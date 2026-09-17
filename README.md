@@ -23,4 +23,13 @@ A simple GitHub profile finder built using HTML, CSS and JavaScript.
 ## How to Run
 
 Open `index.html` in a web browser.
+
+
+    (or)
+
+
+Open this link 
+
+https://deluxe-toffee-be7736.netlify.app/
+
 ```
