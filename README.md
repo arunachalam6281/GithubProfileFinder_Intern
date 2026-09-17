@@ -1,4 +1,3 @@
-```markdown
 # GitHub Profile Finder
 
 A simple GitHub profile finder built using HTML, CSS and JavaScript.
@@ -35,6 +34,4 @@ https://deluxe-toffee-be7736.netlify.app/
 
 ## Screenshot
 
-![Github Profile Finder Screenshot](Images/img1.png)
-
-```
+![Github Profile Finder Screenshot](Images/img11.png)
